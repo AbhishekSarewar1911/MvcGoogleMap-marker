@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvcGooglemapDb1", "mvcGooglemapDb1\mvcGooglemapDb1.csproj", "{9394517E-0368-4CE1-A7B1-0DA56B40A586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9394517E-0368-4CE1-A7B1-0DA56B40A586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9394517E-0368-4CE1-A7B1-0DA56B40A586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9394517E-0368-4CE1-A7B1-0DA56B40A586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9394517E-0368-4CE1-A7B1-0DA56B40A586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A11F7E1-D1E9-4C56-AF3D-75868ED0893E}
+	EndGlobalSection
+EndGlobal
